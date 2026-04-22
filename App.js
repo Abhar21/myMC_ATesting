@@ -54,7 +54,7 @@ const FadeView = ({ children, style }) => {
 };
 
 const OnboardingScreen = ({ onJoin }) => (
-  <View className="flex-1 px-6 justify-between pb-2 pt-4">
+  <View className="flex-1 px-6 justify-between pb-10 pt-4">
     {/* Top Logo Section */}
     <View className="items-center mt-2">
       <Image
